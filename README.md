@@ -1,4 +1,4 @@
-##**Filósofos do Balacobaco: Uma Busca Existencial (e um Pouco Irreverente) por Sabedoria**
+### **Filósofos do Balacobaco: Uma busca existencial (e um pouco irreverente) por sabedoria**
 
 ### **Introdução**
 
