@@ -41,7 +41,7 @@ Quer ajudar a tornar este projeto ainda mais filosófico (e divertido)? Sinta-se
 
 **Disclaimer:** Os filósofos mencionados neste site podem ou não ter dito as coisas que são atribuídas a eles. Afinal, quem nunca inventou uma frase de efeito para impressionar alguém? 
 
-### ** Dicas Extras**
+### **Dicas Extras**
 
 * **Use imagens:** Adicione fotos dos filósofos para deixar o site mais visual.
 * **Crie uma página sobre os autores:** Conte um pouco sobre você e sobre o porquê de criar este projeto.
@@ -54,7 +54,3 @@ Quer ajudar a tornar este projeto ainda mais filosófico (e divertido)? Sinta-se
 **Então, bora filosofar!** 
 
 **#filosofia #programação #webdev #humor**
-
-**Lembre-se:** Adapte este README.md à sua realidade e ao seu estilo de escrita. O importante é que ele seja claro, conciso e divertido! 
-
-**Gostou deste README? Deixe um feedback!** 
