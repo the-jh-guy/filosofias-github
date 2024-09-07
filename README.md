@@ -41,13 +41,13 @@ Quer ajudar a tornar este projeto ainda mais filosófico (e divertido)? Sinta-se
 
 **Disclaimer:** Os filósofos mencionados neste site podem ou não ter dito as coisas que são atribuídas a eles. Afinal, quem nunca inventou uma frase de efeito para impressionar alguém? 
 
-**## Dicas Extras**
+### ** Dicas Extras**
 
 * **Use imagens:** Adicione fotos dos filósofos para deixar o site mais visual.
 * **Crie uma página sobre os autores:** Conte um pouco sobre você e sobre o porquê de criar este projeto.
 * **Implemente um sistema de favoritos:** Para que os usuários possam salvar os filósofos que mais gostam.
 
-**## Conclusão**
+### **Conclusão**
 
 **Filósofos do Balacobaco** é um projeto em constante evolução. A ideia é criar um espaço onde a filosofia seja acessível a todos, de uma forma descontraída e divertida. 
 
