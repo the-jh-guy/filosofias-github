@@ -12,7 +12,8 @@ let dados = [
         formacao: "Filosofia",
         obrasPrincipais: "O Estrangeiro, A Peste, O Mito de Sísifo",
         influencias: "Søren Kierkegaard",
-        citacao: "Uma sociedade que não consegue garantir a liberdade aos seus membros não merece o nome de sociedade."
+        citacao: "Uma sociedade que não consegue garantir a liberdade aos seus membros não merece o nome de sociedade.",
+        tags: "absurdismo existencialismo sisifo sísifo"
     
     },
     {
@@ -27,7 +28,8 @@ let dados = [
         formacao: "Filosofia",
         obrasPrincipais: "O Mundo como Vontade e Representação",
         influencias: "Immanuel Kant",
-        citacao: "Todo homem leva consigo, por toda a vida, a cadeia de seus próprios atos."
+        citacao: "Todo homem leva consigo, por toda a vida, a cadeia de seus próprios atos.",
+        tags: "pessimismo sofrimento vontade arte"
     },
     {
         titulo: "Epicuro",
@@ -41,7 +43,8 @@ let dados = [
         formacao: "Filosofia",
         obrasPrincipais: "Carta a Meneceu",
         influencias: "Demócrito",
-        citacao: "De todas as coisas que a sabedoria nos proporciona para o bem viver, a mais importante é a aquisição de amigos."
+        citacao: "De todas as coisas que a sabedoria nos proporciona para o bem viver, a mais importante é a aquisição de amigos.",
+        tags: "hedonismo prazer felicidade bem-estar epicurismo"
     },
     {
         titulo: "Friedrich Nietzsche",
@@ -55,7 +58,8 @@ let dados = [
         formacao: "Filologia Clássica",
         obrasPrincipais: "Assim Falou Zaratustra",
         influencias: "Arthur Schopenhauer",
-        citacao: "O que não me mata me fortalece."
+        citacao: "O que não me mata me fortalece.",
+        tags: "niilismo existencialismo super-homem valores rebeldia"
     },
     {
         titulo: "Sócrates",
@@ -69,7 +73,8 @@ let dados = [
         formacao: "Filosofia",
         obrasPrincipais: '"Falar demais". Sócrates não escreveu nenhum livro!',
         influencias: "Anaxágoras",
-        citacao: "A única coisa que eu sei é que nada sei."
+        citacao: "A única coisa que eu sei é que nada sei.",
+        tags: "virtude conhecimento filosofia grecia antiga dialogo"
     }
 ];
 
