@@ -54,3 +54,5 @@ Quer ajudar a tornar este projeto ainda mais filosófico (e divertido)? Sinta-se
 **Então, bora filosofar!** 
 
 **#filosofia #programação #webdev #humor**
+
+https://filosofias-github.vercel.app/
